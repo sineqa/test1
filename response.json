@@ -1,6 +1,6 @@
 {
-  "code": "SUCCESS",
-  "adminNotes": "admin notes",
+  "code": "INVALID",
+  "adminNotes": this is invalid json,
   "visitorNotes": "visitor notes",
   "barcode": {
     "type": "QR Code",
