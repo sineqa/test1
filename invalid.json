@@ -1,0 +1,9 @@
+{
+  "code": "SUCCESS"
+  "adminNotes": "admin notes",
+  "visitorNotes": "visitor notes",
+  "barcode": {
+    "type": "QR Code",
+    "data": "it works"
+  }
+} 
