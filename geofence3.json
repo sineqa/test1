@@ -1,0 +1,9 @@
+{
+  "code": "SUCCESS",
+  "adminNotes": "test",
+  "visitorNotes": "test",
+  "barcode": {
+    "type": "QR Code",
+    "data": "9aad4284-9445-4bb0-bb15-9e500bfaba1f"
+  }
+} 
